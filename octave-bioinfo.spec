@@ -48,3 +48,11 @@ mv %{pkgname}-%{version}/DESCRIPTION .
 %doc COPYING DESCRIPTION
 %{_datadir}/octave/packages/%{pkgname}-%{version}
 
+
+
+%changelog
+* Tue Jun 28 2011 Lev Givon <lev@mandriva.org> 0.1.2-1mdv2011.0
++ Revision: 687748
+- import octave-bioinfo
+
+
