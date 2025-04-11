@@ -7,7 +7,7 @@
 Summary:	Bioinformatics manipulation in Octave
 Name:		octave-bioinfo
 Version:	0.2.2
-Release:	2
+Release:	3
 #Source0:	https://github.com/schloegl/octmat-bioinfo/archive/v%{version}/bioinfo-%{version}.tar.gz
 Source0:	https://github.com/schloegl/octmat-bioinfo/archive/%{?commit:master}%{!?commit:v%{version}}/%{name}-%{?commit:master}%{!?commit:%{version}}.tar.gz
 License:	GPLv2+
